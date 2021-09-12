@@ -28,7 +28,8 @@
   <img align="center" alt="jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"> 
   <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> 
-  
+  <img align="right" alt="Carol" src="https://share-cdn.picrew.me/shareImg/org/202109/338224_koNzpEOc.png"/>
+ </div>
   ##
  
 <div> 
