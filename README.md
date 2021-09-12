@@ -5,10 +5,6 @@
 - Estou estudando para desenvolver o meu próprio jogo.
 - Formada em Análise e Desenvolvimento de Sistemas.
 
--- Quer me enviar um email? --
-
-📧 carolinaribeirodacol@gmail.com
-
  <div>
   <a href="https://github.com/Carolinaribeirodacol">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carolinaribeirodacol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
