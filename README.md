@@ -17,7 +17,7 @@ Prazer, Carolina Ribeiro! desenvolvedora Full stack 🖤🤟📚
   </a>
   <a href="https://github.com/Carolinaribeirodacol">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolinaribeirodacol&layout=compact&langs_count=7&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolinaribeirodacol&exclude_repo=repo1,repo2&layout=compact&langs_count=7&theme=dracula"
       alt="Top Languages"
       height="180em"
       style="margin: 10px;"
@@ -51,4 +51,12 @@ Prazer, Carolina Ribeiro! desenvolvedora Full stack 🖤🤟📚
  	<a href="https://www.twitch.tv/acolossalribeiro" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:carolinaribeirodacol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<p align="center">
+  🔎 Quer ver um resumo completo do meu GitHub?
+  <br />
+  <a href="https://profile-summary-for-github.com/user/Carolinaribeirodacol">
+    <img src="https://img.shields.io/badge/GitHub%20Summary-Visualizar-8e44ad?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
