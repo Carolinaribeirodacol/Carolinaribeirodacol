@@ -52,7 +52,7 @@ Prazer, Carolina Ribeiro! desenvolvedora Full stack 🖤🤟📚
   <a href = "mailto:carolinaribeirodacol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<p align="center">
+<p align="center"> <br>
   🔎 Quer ver um resumo completo do meu GitHub?
   <br />
   <a href="https://profile-summary-for-github.com/user/Carolinaribeirodacol">
