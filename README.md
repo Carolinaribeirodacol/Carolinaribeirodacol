@@ -54,7 +54,7 @@ Prazer, Carolina Ribeiro! desenvolvedora Full stack 🖤🤟📚
 
 <p align="center"> <br>
   🔎 Quer ver um resumo completo do meu GitHub?
-  <br />
+  <br /> <br />
   <a href="https://profile-summary-for-github.com/user/Carolinaribeirodacol">
     <img src="https://img.shields.io/badge/GitHub%20Summary-Visualizar-8e44ad?style=for-the-badge&logo=github&logoColor=white" />
   </a>
